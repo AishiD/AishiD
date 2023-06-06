@@ -1,3 +1,4 @@
+![image](https://github.com/AishiD/AishiD/assets/97897398/fed911c2-32bc-40a9-8442-4204e06140d2)
 
 <h1 align="center">Hi 👋, I'm Aishi Dutta</h1>
 <h3 align="center">Curious about tech and everything creative | Front-End Developer | UI/UX Designer | Graphic Designer | Artist</h3>
