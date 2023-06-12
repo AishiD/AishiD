@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Aishi Dutta</h1>
 <h3 align="center">Curious about tech and everything creative | Front-End Developer | UI/UX Designer | Graphic Designer | Artist</h3>
-<img align="right" alt="Coding" width="400" src="![Untitled design](https://github.com/AishiD/AishiD/assets/97897398/7a9684ee-df3d-4985-8b42-922297a0eeb5)">
+<!-- <img align="right" alt="Coding" width="400" src="![Untitled design](https://github.com/AishiD/AishiD/assets/97897398/7a9684ee-df3d-4985-8b42-922297a0eeb5)"> -->
+![Untitled design](https://github.com/AishiD/AishiD/assets/97897398/ad4ff6d0-ae05-44b2-a1c3-83a8aea95545)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishid&label=Profile%20views&color=0e75b6&style=flat" alt="aishid" /> </p>
 
