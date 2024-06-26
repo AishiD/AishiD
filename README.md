@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
-- 👨‍💻 Check out My Portfolio at [https://aishid.github.io/My-portfolio-aishiD/](https://aishid.github.io/My-portfolio-aishiD/)
+- 👨‍💻 Check out My Portfolio at [https://aishidutta.vercel.app/](https://aishidutta.vercel.app/)
 
 - 🎨 I regularly post art on [https://www.instagram.com/impressions.of_art/](https://www.instagram.com/impressions.of_art/)
 
